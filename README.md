@@ -1,5 +1,9 @@
 # CubeMart Ad Service
 
+![CubeMart](https://img.shields.io/badge/CubeMart-Ads-0f766e)
+![Java](https://img.shields.io/badge/Java-Service-007396)
+![gRPC](https://img.shields.io/badge/gRPC-Advertising-1f2937)
+
 The Ad service returns contextual product advertisements for CubeMart based on page and product context.
 
 ## Building locally
