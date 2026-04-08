@@ -1,6 +1,6 @@
-# Ad Service
+# CubeMart Ad Service
 
-The Ad service provides advertisement based on context keys. If no context keys are provided then it returns random ads.
+The Ad service returns contextual product advertisements for CubeMart based on page and product context.
 
 ## Building locally
 
@@ -25,4 +25,3 @@ From `src/adservice/`, run:
 ```
 docker build ./
 ```
-
