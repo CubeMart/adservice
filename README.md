@@ -13,7 +13,7 @@ The Ad service uses gradlew to compile/install/distribute. Gradle wrapper is alr
 ```
 ./gradlew installDist
 ```
-It will create executable script src/adservice/build/install/hipstershop/bin/AdService
+It will create an executable script at `build/install/hipstershop/bin/AdService`.
 
 ### Upgrading gradle version
 If you need to upgrade the version of gradle then run
@@ -24,7 +24,7 @@ If you need to upgrade the version of gradle then run
 
 ## Building docker image
 
-From `src/adservice/`, run:
+From the repo root, run:
 
 ```
 docker build ./
